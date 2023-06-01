@@ -250,7 +250,7 @@ export default function App() {
               // // en comun
               // descuentosSubtitle: cellValue[17][0],
               descuento1: cellValue[33][2],
-              descuento2: cellValue[1934][2],
+              descuento2: cellValue[34][2],
               // descuento3: cellValue[20][0],
               // descuento4: cellValue[21][0],
             }}
