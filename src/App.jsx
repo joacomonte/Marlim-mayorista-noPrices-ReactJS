@@ -210,7 +210,7 @@ export default function App() {
             cell={{
               img: ['inox.jpg'],
               title: cellValue[24][0],
-              subtitle: 'prueba',
+              subtitle: cellValue[24][2],
               modelo1: cellValue[25][2],
               // precio1: cellValue[25][1],
               modelo2: cellValue[26][2],
@@ -221,8 +221,8 @@ export default function App() {
               // customizePrice: cellValue[28][1],
               // // en comun
               // descuentosSubtitle: cellValue[17][0],
-              // descuento1: cellValue[18][0],
-              // descuento2: cellValue[19][0],
+              descuento1: 'descuento1',
+              descuento2: 'descuento2',
               // descuento3: cellValue[20][0],
               // descuento4: cellValue[21][0],
             }}
