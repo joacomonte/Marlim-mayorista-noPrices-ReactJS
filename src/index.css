@@ -231,7 +231,6 @@ body {
   justify-content: center;
   align-items: center;
   width: 100%;
-  padding: 2%;
 }
 
 
@@ -322,15 +321,17 @@ body {
   display: flex;
   width: 100%;
   flex-direction: column;
-  padding: 30px;
+  margin-top: 50px;
   align-items: center;
   justify-content: center;
 }
 
 .fundacionContainer p{
-  max-width: 500px;
   text-align: center;
+  line-height: 1.5;
+  padding: 0 50px;
 }
+
 
 .bannerLogosSection{
   display: flex;
