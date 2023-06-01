@@ -126,7 +126,7 @@ export default function App() {
             cell={{
               img: ['rec.jpg'],
               title: cellValue[9][0],
-              subtitle: cellValue[9][0],
+              subtitle: cellValue[9][1],
               // modelo1: cellValue[11][0],
               // // precio1: cellValue[11][1],
               // // modelo2: cellValue[12][0],
@@ -154,7 +154,7 @@ export default function App() {
             cell={{
               img: ['cor.jpg'],
               title: cellValue[9][2],
-              subtitle: cellValue[9][2],
+              subtitle: cellValue[9][3],
               // modelo1: cellValue[11][2],
               // precio1: cellValue[11][3],
               // // modelo2: cellValue[12][0],
@@ -182,7 +182,7 @@ export default function App() {
             cell={{
               img: ['cur.jpg'],
               title: cellValue[9][4],
-              subtitle: cellValue[9][4],
+              subtitle: cellValue[9][5],
               // modelo1: cellValue[11][4],
               // precio1: cellValue[11][5],
               // // modelo2: cellValue[12][0],
@@ -210,7 +210,7 @@ export default function App() {
             cell={{
               img: ['inox.jpg'],
               title: cellValue[24][0],
-              subtitle: cellValue[10][0],
+              subtitle: cellValue[24][1],
               // modelo1: cellValue[25][0],
               // precio1: cellValue[25][1],
               // modelo2: cellValue[26][0],
@@ -238,7 +238,7 @@ export default function App() {
             cell={{
               img: ['bomb.jpg'],
               title: cellValue[32][0],
-              subtitle: cellValue[10][0],
+              subtitle: cellValue[32][1],
               // modelo1: cellValue[33][0],
               // precio1: cellValue[33][1],
               // modelo2: cellValue[34][0],
@@ -266,7 +266,7 @@ export default function App() {
             cell={{
               img: ['limp.jpg'],
               title: cellValue[36][0],
-              subtitle: cellValue[10][0],
+              subtitle: cellValue[36][1],
               // modelo1: cellValue[37][0],
               // precio1: cellValue[37][1],
               // // modelo2: cellValue[12][0],
@@ -293,7 +293,7 @@ export default function App() {
             cell={{
               img: ['est.jpg', 'est pers.jpg'],
               title: cellValue[40][0],
-              subtitle: cellValue[41][0],
+              subtitle: cellValue[40][1],
               // modelo1: cellValue[41][0],
               // precio1: cellValue[41][1],
               // modelo2: cellValue[42][0],
@@ -321,9 +321,9 @@ export default function App() {
             cell={{
               img: ['10.jpg'],
               title: cellValue[48][0],
-              // subtitle: cellValue[10][0],
-              modelo1: cellValue[49][0],
-              precio1: cellValue[49][1],
+              subtitle: cellValue[48][1],
+              // modelo1: cellValue[49][0],
+              // precio1: cellValue[49][1],
               // modelo2: cellValue[42][0],
               // precio2: cellValue[42][1],
               // modelo3: cellValue[43][0],
@@ -349,9 +349,9 @@ export default function App() {
             cell={{
               img: ['kit4.jpg'],
               title: cellValue[53][0],
-              // subtitle: cellValue[10][0],
-              modelo1: cellValue[54][0],
-              precio1: cellValue[54][1],
+              subtitle: cellValue[53][1],
+              // modelo1: cellValue[54][0],
+              // precio1: cellValue[54][1],
               // modelo2: cellValue[42][0],
               // precio2: cellValue[42][1],
               // modelo3: cellValue[43][0],
@@ -377,7 +377,7 @@ export default function App() {
             cell={{
               img: ['cartu bom.jpg'],
               title: cellValue[58][0],
-              subtitle: cellValue[10][0],
+              subtitle: cellValue[58][1],
               // modelo1: cellValue[59][0],
               // precio1: cellValue[59][1],
               // // modelo2: cellValue[42][0],
@@ -405,7 +405,7 @@ export default function App() {
             cell={{
               img: ['23.jpg', 'IMG_9470.jpg'],
               title: cellValue[63][0],
-              subtitle: cellValue[10][0],
+              subtitle: cellValue[63][1],
               // modelo1: cellValue[64][0],
               // precio1: cellValue[64][1],
               // // modelo2: cellValue[42][0],
@@ -433,7 +433,7 @@ export default function App() {
             cell={{
               img: ['ex kit.jpg'],
               title: cellValue[68][0],
-              subtitle: cellValue[10][0],
+              subtitle: cellValue[68][1],
               // modelo1: cellValue[69][0],
               // precio1: cellValue[69][1],
               // // modelo2: cellValue[42][0],
@@ -461,7 +461,7 @@ export default function App() {
             cell={{
               img: ['IMG_9520.jpg', 'ex completo.jpg'],
               title: cellValue[73][0],
-              subtitle: cellValue[10][0],
+              subtitle: cellValue[73][1],
               // modelo1: cellValue[74][0],
               // precio1: cellValue[74][1],
               // // modelo2: cellValue[42][0],
@@ -489,7 +489,7 @@ export default function App() {
             cell={{
               img: ['343813454_191905643672724_808407925404404510_n.jpg'],
               title: cellValue[78][0],
-              subtitle: cellValue[10][0],
+              subtitle: cellValue[78][1],
               // modelo1: cellValue[79][0],
               // precio1: cellValue[79][1],
               // // modelo2: cellValue[42][0],
